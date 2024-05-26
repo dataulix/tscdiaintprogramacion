@@ -12,6 +12,7 @@ Algoritmo campeonato
 	Leer empatados
 	Escribir 'Ingresa la cantidad de perdidos ganados: '
 	Leer perdidos
-	total = ganados * 3 + empatados * 1 + perdidos * 0
+	total <- ganados * 3 + empatados * 1 + perdidos * 0
 	Escribir 'El total de puntos de su equipo es: ', total
 FinAlgoritmo
+

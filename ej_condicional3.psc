@@ -1,7 +1,7 @@
 // Condicional parcial (solo el if) con expresión lógica compuesta (and)
 
 Algoritmo if_and
-	Definir asitencia, promedio Como Entero
+	Definir asistencia, promedio Como Entero
 	Escribir 'Ingresa la asistencia: '
 	Leer asistencia
 	Escribir 'Ingresa el promedio: '

@@ -11,6 +11,7 @@ Algoritmo pintor
 	Leer monto_fijo
 	Escribir 'Ingresa los metros cuadrados que debe pintar: '
 	Leer metros
-	total = monto_fijo * metros
+	total <- monto_fijo * metros
 	Escribir 'El costo de la mano de obra es: $', total
 FinAlgoritmo
+
